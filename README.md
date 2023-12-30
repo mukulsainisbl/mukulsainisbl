@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mukulsainisbl
-- 👀 I’m interested in ...Web Development
+- 👀 I’m interested in ...Web Development,Full stack
 - 🌱 I’m currently learning ...HTML,CSS,JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me ... email-mukulsainisbl1234@gmail.com
 
 <!---
 mukulsainisbl/mukulsainisbl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
