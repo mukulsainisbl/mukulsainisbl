@@ -17,3 +17,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulsainisbl&show_icons=true&locale=en&layout=compact" alt="mukulsainisbl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulsainisbl&show_icons=true&locale=en" alt="mukulsainisbl" /></p>
+
+
+# 👋 Hi, I'm Mukul Saini!
+
+![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukulsaini-07&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulsaini-07&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukulsaini-07&theme=radical)
+
