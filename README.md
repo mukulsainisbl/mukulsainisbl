@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mukul Saini</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **I complete Frontend And Backend Currently I am in DSa**
+- 🌱 I’m currently learning **I complete Frontend And Backend Currently I am in DSA**
 
-- 💬 Ask me about **Html Css React Express Node Mongoose**
+- 💬 Ask me about **Html Css JavaScript React Express Node Mongoose Redux** 
 
 - 📫 How to reach me **mukulsainisbl1234@gmail.com**
 
