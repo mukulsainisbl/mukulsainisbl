@@ -24,7 +24,9 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukul%20Saini-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mukul-saini-sambhal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukul%20Saini-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mukul-saini-sambhal)  
+📧 **Email:** mukulsainisbl1234@gmail.com  
+📞 **Phone:** 9719105128  
 
 ---
 
