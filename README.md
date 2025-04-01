@@ -40,21 +40,26 @@
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=mukulsainisbl&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mukulsainisbl&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </td>
   <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulsainisbl&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulsainisbl&theme=tokyonight" alt="GitHub Streak" />
   </td>
 </tr>
 </table>  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mukulsainisbl&show_icons=true&locale=en&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mukulsainisbl&show_icons=true&locale=en&layout=compact&theme=tokyonight)  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukulsainisbl&theme=tokyo-night)  
+
+---
+
+## 🐍 Contribution Graph  
+
+![GitHub Snake Animation](https://github.com/mukulsainisbl/mukulsainisbl/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
 ## 🚀 Support My Work  
 
 If you like what I do, consider giving my repositories ⭐️!  
-
