@@ -54,12 +54,6 @@
 
 ---
 
-## 🐍 Contribution Graph  
-
-![GitHub Snake Animation](https://github.com/mukulsainisbl/mukulsainisbl/blob/output/github-contribution-grid-snake.svg)  
-
----
-
 ## 🚀 Support My Work  
 
 If you like what I do, consider giving my repositories ⭐️!  
